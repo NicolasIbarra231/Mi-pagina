@@ -1,7 +1,7 @@
 import React from 'react';
 
 import Image from '../assets/Yo.jpeg'
-import Image1 from '../assets/Yotas.jpg'
+import Image1 from '../assets/Yotas2.jpeg'
 
 import { FaLinkedin, FaGithub, FaInstagram } from 'react-icons/fa';
 
